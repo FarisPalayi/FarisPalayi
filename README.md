@@ -1,34 +1,25 @@
 <!---
 FarisPalayi/FarisPalayi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=farispalayi)
 --->
 
 <!-- Title -->
-<h1 align="left">Hello 👋, I'm Faris</h1>
+# Hello 👋, I'm Faris
+
 
 <!-- Github Stats -->
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farispalayi&show_icons=true&locale=en" alt="farispalayi" />
-</p>
+![Github stats](https://github-readme-stats.vercel.app/api?username=farispalayi&show_icons=true&locale=en)
 
 <!-- Github Languages Card -->
-<!-- <<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farispalayi&show_icons=true&locale=en&layout=compact" alt="farispalayi" />
-</p> -->
-
-<br />
+<!--   ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=farispalayi&show_icons=true&locale=en&layout=compact) --> 
 
 <!-- Github Streak -->
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farispalayi&" alt="farispalayi" />
-</p>
+<!--   ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=farispalayi&) -->
 
-<!-- VISITORS COUNT -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=farispalayi&label=Profile%20views&color=0e75b6&style=flat" alt="farispalayi" />
-</p>
+<!-- Viewers Count -->
+  ![viewers count](https://komarev.com/ghpvc/?username=farispalayi&label=Profile%20views&color=0e75b6&style=flat)
+<!--  Visitors Count  -->
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=farispalayi)
 
 <!-- Twitter Folowers Count -->
 <p align="left"> 
@@ -49,15 +40,15 @@ You can click the Preview link to take a look at your changes.
   <!--  HTML  -->
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <!--  CSS  -->
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> &nbsp;
   <!--  Javascript  -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp;
   <!--  Typescript  -->
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> &nbsp;
   <!--  NodeJS  -->
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> &nbsp;
   <!--  Express  -->
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> &nbsp;
   <!--  Sass  -->
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
   <!--  Figma  -->
