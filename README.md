@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Title -->
 
-# Hi there 😀, I'm Faris
+# Hi there 😀, I'm Faris.
 
-### Have a look around
+### Have a look around.
 
 <!-- Github Stats -->
 
@@ -35,14 +35,15 @@ You can click the Preview link to take a look at your changes.
 <!-- Social Media Icons -->
 <h3 align="left">Get in touch:</h3>
 <p align="left">
-  <a href="mailto:farispalayi@gmail.com" target="blank"><img align="center" src="logos/gmail logo.png" alt="farispalayi" height="40" width="auto" /></a>
-  <a href="https://fb.com/farispalayi" target="blank"><img align="center" src="logos/facebook logo.png" alt="farispalayi" height="40" width="auto" /></a>
-  <a href="https://twitter.com/farispalayi" target="blank"><img align="center" src="logos/twitter logo.png" alt="farispalayi" height="30" width="auto" /></a>
-  <a href="https://linkedin.com/in/farispalayi" target="blank"><img align="center" src="logos/linkedin logo.png" alt="farispalayi" height="auto" width="40" /></a>
+  <a href="mailto:farispalayi@gmail.com" target="blank"><img align="center" src="logos/gmail logo.png" alt="farispalayi" height="40" width="auto" /></a> &nbsp;
+  <a href="https://fb.com/farispalayi" target="blank"><img align="center" src="logos/facebook logo.png" alt="farispalayi" height="40" width="auto" /></a> &nbsp;
+  <a href="https://twitter.com/farispalayi" target="blank"><img align="center" src="logos/twitter logo.png" alt="farispalayi" height="30" width="auto" /></a> &nbsp;
+  <a href="https://linkedin.com/in/farispalayi" target="blank"><img align="center" src="logos/linkedin logo.png" alt="farispalayi" height="auto" width="40" /></a> &nbsp;
   <a href="https://codepen.io/farispalayi" target="blank"><img align="center" src="logos/codepen logo black.png" alt="farispalayi" height="40" width="auto" /></a>
 </p>
+<br />
 
-<h3 align="left" bgcolor="yellow" colour="red">Languages and Tools:</h3>
+### My Arsenal:
 <p align="left">
   <!--  HTML  -->
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
