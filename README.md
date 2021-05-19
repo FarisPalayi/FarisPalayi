@@ -4,22 +4,28 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Title -->
-# Hello 👋, I'm Faris
 
+# Hi there 😀, I'm Faris
+
+### Have a look around
 
 <!-- Github Stats -->
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=farispalayi&show_icons=true&locale=en)
 
 <!-- Github Languages Card -->
-<!--   ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=farispalayi&show_icons=true&locale=en&layout=compact) --> 
+<!--   ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=farispalayi&show_icons=true&locale=en&layout=compact) -->
 
 <!-- Github Streak -->
 <!--   ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=farispalayi&) -->
 
 <!-- Viewers Count -->
-  ![viewers count](https://komarev.com/ghpvc/?username=farispalayi&label=Profile%20views&color=0e75b6&style=flat)
+
+![viewers count](https://komarev.com/ghpvc/?username=farispalayi&label=Profile%20views&color=0e75b6&style=flat)
+
 <!--  Visitors Count  -->
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=farispalayi)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=farispalayi)
 
 <!-- Twitter Folowers Count -->
 <p align="left"> 
@@ -27,12 +33,13 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <!-- Social Media Icons -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in touch:</h3>
 <p align="left">
-  <a href="https://codepen.io/farispalayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="farispalayi" height="30" width="40" /></a>
-  <a href="https://twitter.com/farispalayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="farispalayi" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/farispalayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="farispalayi" height="30" width="40" /></a>
-  <a href="https://fb.com/farispalayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="farispalayi" height="30" width="40" /></a>
+  <a href="mailto:farispalayi@gmail.com" target="blank"><img align="center" src="logos/gmail logo.png" alt="farispalayi" height="40" width="auto" /></a>
+  <a href="https://fb.com/farispalayi" target="blank"><img align="center" src="logos/facebook logo.png" alt="farispalayi" height="40" width="auto" /></a>
+  <a href="https://twitter.com/farispalayi" target="blank"><img align="center" src="logos/twitter logo.png" alt="farispalayi" height="30" width="auto" /></a>
+  <a href="https://linkedin.com/in/farispalayi" target="blank"><img align="center" src="logos/linkedin logo.png" alt="farispalayi" height="auto" width="40" /></a>
+  <a href="https://codepen.io/farispalayi" target="blank"><img align="center" src="logos/codepen logo black.png" alt="farispalayi" height="40" width="auto" /></a>
 </p>
 
 <h3 align="left" bgcolor="yellow" colour="red">Languages and Tools:</h3>
