@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Title -->
 
-# Hi there 😀, I'm Faris.
+# Hi there 👋, I'm Faris.
 
 ### Have a look around.
 
@@ -21,11 +21,11 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Viewers Count -->
 
-![viewers count](https://komarev.com/ghpvc/?username=farispalayi&label=Profile%20views&color=0e75b6&style=flat)
+<img align="left" src="https://komarev.com/ghpvc/?username=farispalayi&label=Profile%20views&color=0e75b6&style=flat">
 
 <!--  Visitors Count  -->
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=farispalayi)
+<img align="left" src="https://visitor-badge.glitch.me/badge?page_id=farispalayi">
+<br /><br />
 
 <!-- Twitter Folowers Count -->
 <p align="left"> 
