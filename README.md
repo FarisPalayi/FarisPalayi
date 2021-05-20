@@ -32,6 +32,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://twitter.com/farispalayi" target="_blank"><img src="https://img.shields.io/twitter/follow/farispalayi?logo=twitter&style=for-the-badge" alt="farispalayi" />   </a> 
 </p>
 
+<br />
+
 <!-- Social Media Icons -->
 <h3 align="left">Get in touch:</h3>
 <p align="left">
@@ -41,6 +43,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://linkedin.com/in/farispalayi" target="blank"><img align="center" src="logos/linkedin logo.png" alt="farispalayi" height="auto" width="30" /></a> &nbsp;
   <a href="https://codepen.io/farispalayi" target="blank"><img align="center" src="logos/codepen logo black.png" alt="farispalayi" height="30" width="auto" /></a>
 </p>
+
 <br />
 
 ### Languages and Tools:
