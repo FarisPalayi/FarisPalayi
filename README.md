@@ -37,11 +37,11 @@ You can click the Preview link to take a look at your changes.
 <!-- Social Media Icons -->
 <h3 align="left">Get in touch:</h3>
 <p align="left">
-  <a href="mailto:farispalayi@gmail.com" target="blank"><img align="center" src="logos/gmail logo.png" alt="farispalayi" height="30" width="auto" /></a> &nbsp;
-  <a href="https://fb.com/farispalayi" target="blank"><img align="center" src="logos/facebook logo.png" alt="farispalayi" height="26" width="auto" /></a> &nbsp;
-  <a href="https://twitter.com/farispalayi" target="blank"><img align="center" src="logos/twitter logo.png" alt="farispalayi" height="23" width="auto" /></a> &nbsp;
-  <a href="https://linkedin.com/in/farispalayi" target="blank"><img align="center" src="logos/linkedin logo.png" alt="farispalayi" height="auto" width="30" /></a> &nbsp;
-  <a href="https://codepen.io/farispalayi" target="blank"><img align="center" src="logos/codepen logo black.png" alt="farispalayi" height="30" width="auto" /></a>
+  <a href="mailto:farispalayi@gmail.com" target="blank"><img align="center" src="logos/gmail logo.png" alt="sent me an email" height="30" width="auto" /></a> &nbsp;
+  <a href="https://fb.com/farispalayi" target="blank"><img align="center" src="logos/facebook logo.png" alt="say hi to me on facebook" height="26" width="auto" /></a> &nbsp;
+  <a href="https://twitter.com/farispalayi" target="blank"><img align="center" src="logos/twitter logo.png" alt="me in twitter" height="23" width="auto" /></a> &nbsp;
+  <a href="https://linkedin.com/in/farispalayi" target="blank"><img align="center" src="logos/linkedin logo.png" alt="me in linkedin" height="auto" width="30" /></a> &nbsp;
+  <a href="https://codepen.io/farispalayi" target="blank"><img align="center" src="logos/codepen logo black.png" alt="see my pens on codepen.io" height="30" width="auto" /></a>
 </p>
 
 <br />
