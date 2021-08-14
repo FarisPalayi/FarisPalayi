@@ -67,3 +67,8 @@ You can click the Preview link to take a look at your changes.
   <!--  Git  -->
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="34"/></a>
 </p>
+
+<!-- Most Used Languages -->
+<br />
+
+![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FarisPalayi) <!--&layout=compact-->
