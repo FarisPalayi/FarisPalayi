@@ -18,7 +18,9 @@
   <!-- ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=farispalayi&show_icons=true&locale=en&layout=compact) -->
 
 <!-- Github Streak -->
-<!--   ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=farispalayi&)
+<!--   ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=farispalayi&) -->
+
+<br />
 
 <!-- Viewers Count -->
 
