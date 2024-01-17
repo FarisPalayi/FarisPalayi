@@ -4,7 +4,7 @@
 
 <!-- hero image -->
 
-<img align="center" src="logos/Programming-amico.svg" alt="sent me an email" height="auto" width="auto" />
+<img align="center" src="logos/Programming-amico.svg" alt="sent me an email" height="400" width="auto" />
 
 <br>
 
