@@ -8,8 +8,7 @@
 
 <br>
 
-<p>I'm an indie developer who loves building websites and web apps with intuitive user interfaces. My development philosophy centers around a user-centric approach, emphasizing on <em>user experience</em> and <em>aesthetics</em>. I often like to push beyond my comfort zone and experiment with new technologies and frameworks. I'm dedicated to fine-tuning my designs, with a sharp focus on usability, extensibility, and visual excellence.
-</p>
+<p>Hi there! 👋 I'm an indie developer who loves building websites and web apps with intuitive user interfaces. 🌐💻 My development philosophy centers around a user-centric approach, emphasizing <em>user experience</em> and <em>aesthetics</em>. 🎨 I often like to push beyond my comfort zone and experiment with new technologies and frameworks. 🔍🚀 I'm dedicated to fine-tuning my designs, with a sharp focus on usability, extensibility, and visual excellence. 💡🛠️</p>
 
 <!-- Github Stats -->
 
@@ -26,8 +25,10 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=farispalayi&label=Profile%20views&color=0e75b6&style=flat">
 
 <!--  Visitors Count  -->
-<img align="left" src="https://visitor-badge.glitch.me/badge?page_id=farispalayi">
-<br /><br />
+<!-- <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=farispalayi">
+<br /> -->
+
+<br />
 
 <!-- Twitter Followers Count -->
 <p align="left"> 
@@ -121,4 +122,6 @@
 
 ### Languages
 
-![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FarisPalayi) <!--&layout=compact-->
+<!-- ![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FarisPalayi) &layout=compact -->
+
+![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=farispalayi&show_icons=true&locale=en&layout=compact)
