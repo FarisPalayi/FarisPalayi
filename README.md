@@ -16,7 +16,7 @@
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=farispalayi&show_icons=true&locale=en) -->
 
 <!-- Github Languages Card -->
-  ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=farispalayi&show_icons=true&locale=en&layout=compact)
+  <!-- ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=farispalayi&show_icons=true&locale=en&layout=compact) -->
 
 <!-- Github Streak -->
 <!--   ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=farispalayi&)
