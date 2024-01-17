@@ -2,17 +2,24 @@
 
 # Hi there 👋, I'm Faris.
 
-### Have a look around.
+<!-- hero image -->
+
+<img align="center" src="logos/Programming-amico.svg" alt="sent me an email" height="auto" width="auto" />
+
+<br>
+
+<p>I'm an indie developer who loves building websites and web apps with intuitive user interfaces. My development philosophy centers around a user-centric approach, emphasizing on <em>user experience</em> and <em>aesthetics</em>. I often like to push beyond my comfort zone and experiment with new technologies and frameworks. I'm dedicated to fine-tuning my designs, with a sharp focus on usability, extensibility, and visual excellence.
+</p>
 
 <!-- Github Stats -->
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=farispalayi&show_icons=true&locale=en) -->
 
 <!-- Github Languages Card -->
-<!--   ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=farispalayi&show_icons=true&locale=en&layout=compact) -->
+  ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=farispalayi&show_icons=true&locale=en&layout=compact)
 
 <!-- Github Streak -->
-<!--   ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=farispalayi&) -->
+<!--   ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=farispalayi&)
 
 <!-- Viewers Count -->
 
@@ -61,7 +68,7 @@
 
 <br />
 
-### Languages and Tools:
+### Skills:
 <p align="left">
   <!--  HTML  -->
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -112,4 +119,6 @@
 <!-- Most Used Languages -->
 <br />
 
-<!-- ![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FarisPalayi) --> <!--&layout=compact-->
+### Languages
+
+![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FarisPalayi) <!--&layout=compact-->
