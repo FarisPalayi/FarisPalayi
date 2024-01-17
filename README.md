@@ -31,7 +31,6 @@
 <br /> -->
 
 <br />
-<br />
 
 <!-- Twitter Followers Count -->
 <p align="left"> 
