@@ -4,7 +4,7 @@
 
 <!-- hero image -->
 
-<img align="center" src="logos/intro-img.svg" alt="" height="400" width="auto" />
+<img align="center" src="logos/intro-img.svg" alt="" height="350" width="auto" />
 
 <br>
 
