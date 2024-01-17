@@ -4,7 +4,7 @@
 
 <!-- hero image -->
 
-<img align="center" src="logos/intro-img.svg" alt="sent me an email" height="400" width="auto" />
+<img align="center" src="logos/intro-img.svg" alt="" height="400" width="auto" />
 
 <br>
 
