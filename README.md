@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Github Stats -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=farispalayi&show_icons=true&locale=en)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=farispalayi&show_icons=true&locale=en) -->
 
 <!-- Github Languages Card -->
 <!--   ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=farispalayi&show_icons=true&locale=en&layout=compact) -->
