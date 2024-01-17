@@ -6,7 +6,7 @@
 
 <!-- Github Stats -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=farispalayi&show_icons=true&locale=en)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=farispalayi&show_icons=true&locale=en) -->
 
 <!-- Github Languages Card -->
 <!--   ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=farispalayi&show_icons=true&locale=en&layout=compact) -->
@@ -112,4 +112,4 @@
 <!-- Most Used Languages -->
 <br />
 
-![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FarisPalayi) <!--&layout=compact-->
+<!-- ![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FarisPalayi) --> <!--&layout=compact-->
