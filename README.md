@@ -9,6 +9,10 @@
 
 <p>Hi there! 👋 I'm an indie developer who loves building websites and web apps with intuitive user interfaces. 🌐💻 My development philosophy centers around a user-centric approach, emphasizing <em>user experience</em> and <em>aesthetics</em>. 🎨 I often like to push beyond my comfort zone and experiment with new technologies and frameworks. 🔍🚀 I'm dedicated to fine-tuning my designs, with a sharp focus on usability, extensibility, and visual excellence. 💡🛠️</p>
 
+<br />
+
+<a href="https://my-sites-farisp.netlify.app">Check out some of my <strong>projects</strong> (some are unifinished) here</a>
+
 <!-- Github Stats -->
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=farispalayi&show_icons=true&locale=en) -->
