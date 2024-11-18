@@ -11,7 +11,7 @@
 
 <br />
 
-<a href="https://my-sites-farisp.netlify.app">Check out some of my <strong>projects</strong> (some are unifinished) here</a>
+🔗<a href="https://my-sites-farisp.netlify.app">Check out some of my <strong>projects</strong> (some are unifinished) here</a>
 
 <!-- Github Stats -->
 
