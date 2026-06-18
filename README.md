@@ -43,16 +43,6 @@
     <img align="center" src="logos/gmail logo.png" alt="sent me an email" height="30" width="auto" />
   </a> &nbsp;
 
-  <!-- twitter -->
-  <a href="https://twitter.com/farispalayi" target="_blank">
-    <img align="center" src="logos/twitter logo.png" alt="me in twitter" height="23" width="auto" />
-  </a> &nbsp;
-
-  <!-- linkedin -->
-  <a href="https://linkedin.com/in/farispalayi" target="_blank">
-    <img align="center" src="logos/linkedin logo.png" alt="me in linkedin" height="auto" width="30" />
-  </a> &nbsp;
-
   <!-- codepen -->
   <a href="https://codepen.io/farispalayi" target="_blank">
     <img align="center" src="logos/codepen logo black.png" alt="see my pens on codepen.io" height="30" width="auto" />
